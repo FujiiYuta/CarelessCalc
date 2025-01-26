@@ -1,0 +1,4 @@
+options:
+  xcworkspacePath: "*.xcworkspace"
+  prefix: Acknowledgements
+  singlePage: true
